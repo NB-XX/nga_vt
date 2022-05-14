@@ -7,3 +7,6 @@
 下载后将本脚本放在nga.py同一级目录下  
 `python3 nga_vt.py`  
 推荐使用nohup挂在后台自动运行
+## 自动检测已隐藏帖子并打包
+
+'python3 file_packed'
